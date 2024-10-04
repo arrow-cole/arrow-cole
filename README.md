@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arrow-cole
-- 👀 I’m interested in: Building Websites/
+- 👀 I’m interested in: Building Websites.
 - 🌱 I’m currently learning: Java, C++
 - 💞️ I’m looking to collaborate on: Nothing Rn.
 - 📫 How to reach me: Aaron@fakeitcompany.xyz
