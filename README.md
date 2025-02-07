@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arrow-cole
 - 👀 I’m interested in: Building Websites.
 - 🌱 I’m currently learning: Java
-- 🌱 Code's I'm learning soo: C++, C#
+- 🌱 Code's I'm learning soon: C++, C#
 - 🧑‍💻 I’m looking to collaborate on: Nothing Rn.
 - 📫 How to reach me: Info@aaroncole.dev
 - 😄 Pronouns: He/Him, They/Them
