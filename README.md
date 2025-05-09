@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Java
 - 🌱 Code's I'm learning soon: C++, C#
 - 🧑‍💻 I’m looking to collaborate on: Nothing Rn.
-- 📫 How to reach me: [Acole@tech-center.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Acole@tech-center.com)
+- 📫 How to reach me: [Aaron@aaroncole.dev](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Aaron@aaroncole.dev)
 - 😄 Pronouns: He/Him, They/Them
 - 🧑‍💻 My Codes: HTML5, CSS3, JS, TS, PHP, Py, SASS, EXCEL, and More.
 
