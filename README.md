@@ -1,13 +1,94 @@
-- 👋 Hi, I’m @arrow-cole
-- 👀 I’m interested in: Building Websites.
-- 🌱 I’m currently learning: Java
-- 🌱 Code's I'm learning soon: C++, C#
-- 🧑‍💻 I’m looking to collaborate on: Nothing Rn.
-- 📫 How to reach me: [Aaron@aaroncole.dev](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Aaron@arrowcole.xyz)
-- 😄 Pronouns: He/Him, They/Them
-- 🧑‍💻 My Codes: HTML5, CSS3, JS, TS, PHP, Py, SASS, EXCEL, and More.
+# 👋 Hi, I'm @arrow-cole (Aaron Cole)
 
-<!---
-arrow-cole/arrow-cole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Web Developer • Designer • Domain Builder • Project Creator  
+
+---
+
+## 👀 Interests
+- Building fast modern websites  
+- UI/UX design & frontend systems  
+- Domain-based web projects  
+- Automation & web tools  
+
+---
+
+## 🌱 Currently Learning
+- Java  
+- Advanced JavaScript & Backend APIs  
+
+### 📚 Learning Next
+- C++  
+- C#  
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Frontend
+- HTML5, CSS3, SASS  
+- JavaScript, TypeScript  
+
+### Backend
+- PHP  
+- Python  
+
+### Tools & Other
+- Excel Automation  
+- Git & GitHub  
+- Hosting, DNS & Domain Management  
+
+---
+
+## 🌐 My Websites & Domains
+
+### ⭐ Main Brand
+- 🌎 https://aaroncole.dev  
+- 🌎 https://aaroncole.us  
+
+### 🔗 Utility & Media
+- 🆘 https://acole.help  
+- 🔗 https://acole.link  
+- 🖼 https://acole.pics  
+- 🌐 https://acole.xyz  
+
+### 🎨 Creative & Business
+- 🎨 https://acoledesign.xyz  
+- 🛍 https://acoleprints.shop  
+- 🎮 https://acolegames.dev  
+
+### 🏹 ArrowCole Network
+- 🏹 https://arrowcole.us  
+- 🏹 https://arrowcole.xyz  
+- 🎳 https://arrowsbowl.xyz  
+
+### 🧪 Experimental & Projects
+- 🧩 https://coleaaro.xyz  
+- 🦖 https://dr-dino.xyz  
+- 🏀 https://jayjay-adventures.net  
+
+---
+
+## 🤝 Collaboration
+
+- Currently building solo projects  
+- Open to web design & frontend collaborations  
+
+📬 **Collaboration Email:**  
+➡️ **collab@aaroncole.dev**
+
+---
+
+## 📫 Main Contact
+
+📧 Personal Email: **Aaron@aaroncole.dev**  
+🌐 Portfolio: https://aaroncole.dev  
+
+---
+
+## 😄 Pronouns
+He / Him • They / Them  
+
+---
+
+⭐ Thanks for checking out my profile!  
+Always building, learning, and improving.
