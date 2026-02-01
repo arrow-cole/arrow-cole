@@ -53,15 +53,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrow-cole&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrow-cole&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrow-cole&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=arrow-cole&theme=tokyonight&hide_border=true&exclude_days=Sun,Sat" width="60%"/>
 </p>
 
 ---
@@ -95,5 +90,5 @@ He / Him • They / Them
 ---
 
 <p align="center">
-  ⚡ Built with passion • Powered by creativity • Deployed with style ⚡
+⚡ Built with passion • Powered by creativity • Deployed with style ⚡
 </p>
